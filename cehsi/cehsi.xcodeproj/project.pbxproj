@@ -16,6 +16,7 @@
 		A3F0E9031FCFB6F100608C31 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3F0E9021FCFB6F100608C31 /* main.m */; };
 		A3F0E90D1FCFB6F100608C31 /* cehsiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A3F0E90C1FCFB6F100608C31 /* cehsiTests.m */; };
 		A3F0E9181FCFB6F100608C31 /* cehsiUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A3F0E9171FCFB6F100608C31 /* cehsiUITests.m */; };
+		A3F0E9271FCFB90F00608C31 /* ViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = A3F0E9261FCFB90F00608C31 /* ViewController1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		A3F0E9131FCFB6F100608C31 /* cehsiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cehsiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3F0E9171FCFB6F100608C31 /* cehsiUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cehsiUITests.m; sourceTree = "<group>"; };
 		A3F0E9191FCFB6F100608C31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3F0E9251FCFB90F00608C31 /* ViewController1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController1.h; sourceTree = "<group>"; };
+		A3F0E9261FCFB90F00608C31 /* ViewController1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +110,8 @@
 				A3F0E8F11FCFB6F100608C31 /* AppDelegate.m */,
 				A3F0E8F31FCFB6F100608C31 /* ViewController.h */,
 				A3F0E8F41FCFB6F100608C31 /* ViewController.m */,
+				A3F0E9251FCFB90F00608C31 /* ViewController1.h */,
+				A3F0E9261FCFB90F00608C31 /* ViewController1.m */,
 				A3F0E8F61FCFB6F100608C31 /* Main.storyboard */,
 				A3F0E8FC1FCFB6F100608C31 /* Assets.xcassets */,
 				A3F0E8FE1FCFB6F100608C31 /* LaunchScreen.storyboard */,
@@ -268,6 +273,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3F0E9271FCFB90F00608C31 /* ViewController1.m in Sources */,
 				A3F0E8FB1FCFB6F100608C31 /* cehsi.xcdatamodeld in Sources */,
 				A3F0E8F51FCFB6F100608C31 /* ViewController.m in Sources */,
 				A3F0E9031FCFB6F100608C31 /* main.m in Sources */,
